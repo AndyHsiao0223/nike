@@ -1,8 +1,19 @@
-# React + Vite
+# nike
+I use this project to practice Tailwind. This time I try to use Vite to initialize the project. Deploy on a new cloud platform named 'Vercel'.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Deployment
+[Deploy on Vercel](https://nike-black-nine.vercel.app)
 
-Currently, two official plugins are available:
+## Techniques
+* Language: JavaScript
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Framework: Vite
+
+* Libraries: Tailwind
+
+* Depoly: Vercel
+
+## Sources
+[JavaScript Mastery](https://www.youtube.com/watch?v=tS7upsfuxmo)
+
+If you have any problem about copyright, please contact me in Issue. I'll solve it, thanks.
