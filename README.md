@@ -7,7 +7,7 @@ I use this project to practice Tailwind. This time I try to use Vite to initiali
 ## Techniques
 * Language: JavaScript
 
-* Framework: Vite
+* Tool: Vite
 
 * Libraries: React Tailwind
 
