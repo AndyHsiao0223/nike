@@ -5,11 +5,11 @@ I use this project to practice Tailwind. This time I try to use Vite to initiali
 [Deploy on Vercel](https://nike-black-nine.vercel.app)
 
 ## Techniques
-* Language: ReactJS
+* Language: JavaScript
 
 * Framework: Vite
 
-* Libraries: Tailwind
+* Libraries: React Tailwind
 
 * Depoly: Vercel
 
