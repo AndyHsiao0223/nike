@@ -12,8 +12,3 @@ I use this project to practice Tailwind. This time I try to use Vite to initiali
 * Libraries: React Tailwind
 
 * Depoly: Vercel
-
-## Sources
-[JavaScript Mastery](https://www.youtube.com/watch?v=tS7upsfuxmo)
-
-If you have any problem about copyright, please contact me in Issue. I'll solve it, thanks.
